@@ -4,4 +4,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://soap2dayplus.pages.dev/sitemap.xml
+Sitemap: https://animesamaorg.pages.dev/sitemap.xml
